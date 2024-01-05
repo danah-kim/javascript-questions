@@ -1,7 +1,8 @@
 repo_name: danah-kim/javascript-questions
 report_id: ba0466217610ff3a29fccfed326afd9e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T11:59:24+00:00'
+timestamp: '2024-01-05T08:48:44+00:00'
 requested_by: danah-kim
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/danah-kim/javascript-questions
   detection_source: Repo Metadata
